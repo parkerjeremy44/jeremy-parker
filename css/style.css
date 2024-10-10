@@ -627,7 +627,7 @@ strong,
 }
 .page-main {
   position: relative;
-  margin-left: 40%;
+  margin-left: 25%;
   width: 55%;
   height: 100%;
 }
@@ -667,7 +667,7 @@ strong,
   display: block;
   border: 0 solid #fff;
   border-radius: 100%;
-  margin-left: -24px;
+  margin-left: 45%;
   transition: 0.3s;
   color: #fff;
   font-size: 14px;

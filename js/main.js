@@ -63,6 +63,25 @@ $(document).ready(function() {
 						<img src="./images/drill%20down%202.png" alt="component view 2 image" /> 
 						<img src="./images/drill%20down%203.png" alt="component view 2 image" /> 
 						<img src="./images/graphs.png" alt="component view 2 image" />
+						<h5>Table View</h5>
+						<img src="./images/cores table.png" alt="">
+						<p>In this section, I will take you on a journey from concept to MVP through to final delivery for project code named Table View. Ok, actually, it was just called Table View. A little light comedy to break up the monotony of resume after resume, right?</p>
+						<img src="./images/audit.png" alt="">
+						<p>We spoke with Commissioning Engineers, Mechanical Engineers, Electrical Engineers, and documented their work experience and every day job duties. This gave us deep insights into how they saw the cube system, which in turn allowed us to design for them directly so that the application would be intuitive to their knowledge and nature.</p>
+						<h4>Create a new table view design with loads of new functionality intent on being powerful, fast, and smartly presented.</h4>
+						<p>Using the Audit screen as shown above as our start point, this is one of the early iterations. I was testing out different ways of showing breadcrumbs and how to display a way to change views in the workable area. Some early design decisions such as removing the separating line between the first few columns were to divide the columns of data from each element or piece of the Cube.</p>
+						<img src="./images/table_early1.png" alt="">
+						<p>You can also see some ideas where the user could drill down into the Core as a whole while also using the Table View. This would allow overhead control and visible data when moving through different parts of the system.</p>
+						<p>Below are a few examples of some iterative ideas:</p>
+						<img src="./images/table_early2.png" alt="">
+						<img src="./images/table_early3.png" alt="">
+						<img src="./images/table_early4.png" alt="">
+						<p>I'd be happy to share the prototype for this, all I need is an email to send an invite code. For now, take a look at the Table of Contents and Instructions page I created where everything was linked and the user could access this from anywhere in the prototype. The goal being the user will never be lost or confused in the viewing action.</p>
+						<img src="./images/prototype1.png" alt="">
+						<p>The entire Figma file!</p>
+						<img src="./images/table_early5.png" alt="">
+						<p>Finally, there's a boatload of data I collected in various different pieces of software to fully round out this project. I can show you this in an interview. For now, I'm leaving it out because I feel like it would make this portfolio a bit bloated and I want to respect your time.</p>
+						<img src="./images/software2.png" alt="">
 		`
 		var modalContent2 = `
         <h2>Marriott</h2>
